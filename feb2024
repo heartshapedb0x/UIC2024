@@ -1,0 +1,15 @@
+no_win = ['x', 'x', 'o']
+
+win_x = ['x', 'x', 'x']   
+
+win_o = ['o', 'o', 'o'] 
+
+no_win = ['o', 'x', 'o']
+
+
+if (no_win[0] == no_win[1]):
+   print("false") 
+   print("tie")
+   print("true")
+   
+   #if array{0} == array[1] == array[?]:
